@@ -1,0 +1,9 @@
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\obj\x86\Debug\com.lufiaIIEditor.UI.Form1.resources
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\bin\Debug\Lufia II Editor.exe
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\bin\Debug\Lufia II Editor.pdb
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\obj\x86\Debug\Lufia II Editor.exe
+C:\Users\Jose\My Games\SNES\Lufia 2\Lufia II Editor\Lufia II Editor\obj\x86\Debug\Lufia II Editor.pdb

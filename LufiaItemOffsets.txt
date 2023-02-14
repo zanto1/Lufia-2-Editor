@@ -1,0 +1,467 @@
+B550F;No equip     
+B551C;Charred newt 
+B5549;Potion       
+B556C;Hi-Potion    
+B558F;Ex-Potion    
+B55B2;Magic jar    
+B55D7;Hi-Magic     
+B55FA;Ex-Magic     
+B561D;Regain       
+B5649;Miracle      
+B567F;Antidote     
+B569E;Awake        
+B56B5;Shriek       
+B56CC;Mystery pin  
+B56E3;Power gourd  
+B56FA;Mind gourd   
+B5711;Magic guard  
+B5728;Life potion  
+B5741;Spell potion 
+B575A;Power potion 
+B5773;Speed potion 
+B578C;Mind potion  
+B57A5;Brave        
+B57BE;Pear cider   
+B57E1;Sour cider   
+B5804;Lime cider   
+B5827;Plum cider   
+B584A;Apple cider  
+B586D;Sleep ball   
+B5886;Confuse ball 
+B589F;Freeze ball  
+B58B8;Smoke ball   
+B58CE;Ice ball     
+B58E8;Fire ball    
+B5902;Terror ball  
+B591B;Ear pick     
+B5935;Boomerang    
+B5953;Big boomer   
+B5971;Ex-boomer    
+B598F;Dragon tooth 
+B59AD;Green tea    
+B59BA;Escape       
+B59CE;Warp         
+B59E2;Dragon egg   
+B59EF;Curselifter  
+B5A03;Providence   
+B5A17;Secret fruit 
+B5A26;Holy fruit   
+B5A35;Breeze fruit 
+B5A44;Charm fruit  
+B5A53;Dark fruit   
+B5A62;Earth fruit  
+B5A71;Flame fruit  
+B5A80;Magic fruit  
+B5A8F;Dual blade   
+B5AAC;Frypan       
+B5AC4;Knife        
+B5AD5;Small knife  
+B5AE6;Rapier       
+B5AF7;Battle knife 
+B5B0A;Dagger       
+B5B1B;Insect crush 
+B5B37;Long knife   
+B5B48;Short sword  
+B5B5B;Light knife  
+B5B70;Kukri        
+B5B83;Gladius      
+B5B9D;Cold rapier  
+B5BBB;Scimitar     
+B5BCE;Deadly sword 
+B5BE9;Deadly sword 
+B5C06;SuhrCustom11 
+B5C17;Bronze sword 
+B5C2A;Fire dagger  
+B5C46;War rapier   
+B5C59;Long sword   
+B5C6A;Beserk blade 
+B5C82;Beserk blade 
+B5C9F;Multi sword  
+B5CBA;Rockbreaker  
+B5CCD;Broadsword   
+B5CDE;Estok        
+B5CF1;Silvo rapier 
+B5D0B;Burn sword   
+B5D28;Dekar blade  
+B5D42;Crazy blade  
+B5D55;Deadly sword 
+B5D6B;Deadly sword 
+B5D87;Luck rapier  
+B5D9D;Luck rapier  
+B5DB5;Aqua sword   
+B5DD4;Red saber    
+B5DEE;Lucky blade  
+B5E04;Lucky blade  
+B5E1C;Mist rapier  
+B5E36;Boom sword   
+B5E53;Freeze sword 
+B5E72;Silver sword 
+B5E8C;Flying blow  
+B5EA9;Super sword  
+B5ECA;Buster sword 
+B5EDD;Rune rapier  
+B5EF7;Old sword    
+B5F0A;Lizard blow  
+B5F29;Zirco sword  
+B5F3C;Sizzle sword 
+B5F5B;Blaze sword  
+B5F7C;Myth blade   
+B5F8F;Gades blade  
+B5FAC;Sky sword    
+B5FCB;Snow sword   
+B5FEC;Fry sword    
+B6013;Egg sword    
+B6024;Franshiska   
+B6035;Thunder ax   
+B6051;Hand ax      
+B6064;Bronze ax    
+B6077;Flying ax    
+B6094;Rainy ax     
+B60A7;Great ax     
+B60B8;Zirco ax     
+B60CB;Mega ax      
+B60EA;Mace         
+B6102;Rod          
+B611A;Staff        
+B6132;Deadly rod   
+B614B;Deadly rod   
+B6168;Sleep rod    
+B6182;Long staff   
+B619A;Holy staff   
+B61B7;Morning star 
+B61CF;Pounder rod  
+B61E7;Crystal wand 
+B6201;Silver rod   
+B621B;Zirco rod    
+B6233;Zirco flail  
+B6246;Spark staff  
+B6267;Whip         
+B627A;Wire         
+B628D;Chain        
+B62A0;Aqua whip    
+B62BE;Cutter whip  
+B62D1;Royal whip   
+B62E4;Holy whip    
+B6301;Zirco whip   
+B6314;Air whip     
+B6333;Fatal pick   
+B634C;Fatal pick   
+B6367;Spear        
+B637A;Trident      
+B638D;Halberd      
+B63A0;Heavy lance  
+B63B3;Water spear  
+B63D2;Dragon spear 
+B63F5;Vice pliers  
+B6406;Coma hit     
+B6424;Figgoru      
+B6442;Superdriver  
+B6455;Stun gun     
+B646F;Battledriver 
+B6480;Launcher     
+B649E;Freeze bow   
+B64B8;Cursed bow   
+B64C7;Arty's bow   
+B64E3;Apron        
+B64F2;Dress        
+B6501;Cloth        
+B6510;Lab-coat     
+B6528;Hide armor   
+B6537;Frock        
+B6548;Robe         
+B6557;Cloth armor  
+B6568;Coat         
+B6579;Tough hide   
+B658A;Light dress  
+B659B;Light armor  
+B65AC;Camu armor   
+B65C6;Baggy        
+B65D5;Tight dress  
+B65E6;Chainmail    
+B65F5;Holy wings   
+B6613;Ironmail     
+B6624;Toga         
+B6633;Chain armor  
+B6642;Thick cloth  
+B6653;Stone plate  
+B6664;Long robe    
+B6684;Plated cloth 
+B6693;Iron plate   
+B66A4;Metal mail   
+B66B5;Silk toga    
+B66D1;Silver armor 
+B66E9;Light jacket 
+B66F8;Metal coat   
+B6709;Silver mail  
+B6721;Power jacket 
+B6730;Quilted silk 
+B6748;Metal armor  
+B6759;Power cape   
+B6768;Magic bikini 
+B6780;Silver robe  
+B6798;Evening gown 
+B67A9;Plate armor  
+B67B8;Plati plate  
+B67C9;Silk robe    
+B67DF;Revive armor 
+B67F2;Crystal mail 
+B680A;Crystal robe 
+B6822;Heal armor   
+B6833;Metal jacket 
+B6842;Deadly armor 
+B6853;Deadly armor 
+B6866;Eron dress   
+B6877;Bright armor 
+B6895;Bright cloth 
+B68B1;Power robe   
+B68C2;Magic scale  
+B68D9;Holy robe    
+B68FB;Ghostclothes 
+B6913;Royal dress  
+B692F;Full mail    
+B693E;Old armor    
+B695C;Zircon plate 
+B696D;Zircon armor 
+B697E;Mirak plate  
+B6996;Ruse armor   
+B69AE;Pearl armor  
+B69CF;Chop board   
+B69DE;Small shield 
+B69ED;Hide shield  
+B69FC;Buckler      
+B6A0B;Mini shield  
+B6A1C;Wood shield  
+B6A2B;Bracelet     
+B6A3C;Power brace  
+B6A56;Kite shield  
+B6A67;Tough gloves 
+B6A76;Brone shield 
+B6A87;Anger brace  
+B6AA3;Block shield 
+B6AB4;Tecto gloves 
+B6AC5;Round shield 
+B6AD4;Pearl brace  
+B6B01;Fayza shield 
+B6B14;Big shield   
+B6B23;Tall shield  
+B6B34;Silvo shield 
+B6B47;Spike shield 
+B6B58;Slash shield 
+B6B6B;Mage shield  
+B6B85;Tuff buckler 
+B6B94;Tect buckler 
+B6BA5;Gold gloves  
+B6BC4;Gold shield  
+B6BE3;Plati gloves 
+B6C02;Plati shield 
+B6C21;Gauntlet     
+B6C43;Rune gloves  
+B6C68;Holy shield  
+B6C89;Zirco gloves 
+B6C9C;Zirco shield 
+B6CAF;Old shield   
+B6CD1;Flame shield 
+B6CF6;Water gaunt  
+B6D1D;Bolt shield  
+B6D42;Cryst shield 
+B6D67;Mega shield  
+B6D98;Dark mirror  
+B6DA7;Dark mirror  
+B6DD2;Apron shield 
+B6DF9;Pearl shield 
+B6E19;Pot          
+B6E28;Beret        
+B6E39;Cap          
+B6E48;Cloth helmet 
+B6E57;Hairband     
+B6E68;Headband     
+B6E7B;Hide helmet  
+B6E8A;Jet helm     
+B6E9D;Red beret    
+B6EAE;Glass cap    
+B6EBD;Wood helmet  
+B6ECC;Blue beret   
+B6EDB;Brone helmet 
+B6EEC;Stone helmet 
+B6EFD;Cloche       
+B6F0C;Fury helmet  
+B6F28;Iron helmet  
+B6F39;Tight helmet 
+B6F48;Turban       
+B6F59;Plate cap    
+B6F68;Roomy helmet 
+B6F77;Tight turban 
+B6F88;Glass cloche 
+B6F97;Plate helmet 
+B6FA6;Rock helmet  
+B6FB7;Jute helmet  
+B6FD5;Shade hat    
+B6FE4;Metal cloche 
+B6FF3;SilverHelmet 
+B7006;Fury ribbon  
+B7020;Silver hat   
+B7033;Eron hat     
+B7044;Circlet      
+B7055;Golden helm  
+B7066;Gold band    
+B7077;Plati band   
+B7088;Plati helm   
+B7099;Crysto beret 
+B70AA;Crysto helm  
+B70BD;Holy cap     
+B70D0;Safety hat   
+B70EA;Zirco band   
+B70FB;Zirco helmet 
+B710C;Old helmet   
+B712B;Agony helm   
+B7150;Boom turban  
+B7175;Aqua helm    
+B7196;Ice hairband 
+B71BB;Legend helm  
+B71DC;Hairpin      
+B7203;Brill helm   
+B722F;Pearl helmet 
+B7251;Ear jewel    
+B7262;Glass brace  
+B7277;Glass ring   
+B728A;Earring      
+B729D;Speedy ring  
+B72AE;Power ring   
+B72BF;Muscle ring  
+B72D0;Protect ring 
+B72E1;Mind ring    
+B72F2;Witch ring   
+B7305;Fire ring    
+B7316;Water ring   
+B7327;Ice ring     
+B7338;Thunder ring 
+B7349;Fury ring    
+B735A;Mystery ring 
+B7374;Sonic ring   
+B7385;Hipower ring 
+B7396;Trick ring   
+B73A7;Fake ring    
+B73B8;S-fire ring  
+B73C9;S-water ring 
+B73DA;S-ice ring   
+B73EB;S-thun ring  
+B73FC;S-power ring 
+B740D;S-mind ring  
+B741E;S-pro ring   
+B742F;S-witch ring 
+B7442;Undead ring  
+B7461;Rocket ring  
+B7472;Ghost ring   
+B748A;Angry ring   
+B749B;S-myst ring  
+B74B9;Dia ring     
+B74CE;Sea ring     
+B74EC;Dragon ring  
+B750C;Engage ring  
+B751B;Egg ring     
+B7533;Horse rock   
+B7544;Eagle rock   
+B7557;Lion fang    
+B756A;Bee rock     
+B757B;Snake rock   
+B758E;Cancer rock  
+B759F;Pumkin jewel 
+B75B2;Uni jewel    
+B75C3;Mysto jewel  
+B75D6;Samu jewel   
+B75E9;Bat rock     
+B75FC;Hidora rock  
+B7611;Flame jewel  
+B7626;Water jewel  
+B763B;Thundo jewel 
+B7650;Earth jewel  
+B7663;Twist jewel  
+B7676;Gloom jewel  
+B7687;Tidal jewel  
+B7698;Magma rock   
+B76AD;Evil jewel   
+B76BE;Evil jewel   
+B76CF;Gorgon rock  
+B76E2;Song rock    
+B76F5;Kraken rock  
+B770A;Catfish jwl. 
+B771D;Camu jewel   
+B7732;Spido jewel  
+B7745;Gorgan rock  
+B775A;Light jewel  
+B776F;Black eye    
+B7786;Silver eye   
+B779D;Gold eye     
+B77B5;1 coin       
+B77C2;10 coin set  
+B77CF;50 coin set  
+B77DC;100 coin set 
+B77E9;Flame charm  
+B7803;Zap charm    
+B781D;Magic lamp   
+B7839;Statue       
+B785A;Rage knife   
+B786D;Fortune whip 
+B7887;Dragon blade 
+B78A1;Bunny ring   
+B78B9;Bunny ears   
+B78D5;Bunnylady    
+B78ED;Bunny sword  
+B7906;Bunnysuit    
+B7922;Seethru cape 
+B7939;Seethru silk 
+B7951;Iris sword   
+B795E;Iris shield  
+B796B;Iris helmet  
+B7978;Iris armor   
+B7985;Iris ring    
+B7992;Iris jewel   
+B799F;Iris staff   
+B79AC;Iris pot     
+B79B9;Iris tiara   
+B79C6;Power jelly  
+B79D3;Jewel sonar  
+B79E5;Hook         
+B79F2;Bomb         
+B79FF;Arrow        
+B7A0C;Fire arrow   
+B7A19;Hammer       
+B7A27;Treas. sword 
+B7A34;Door key     
+B7A41;Shrine key   
+B7A4E;Sky key      
+B7A5B;Lake key     
+B7A68;Ruby key     
+B7A75;Wind key     
+B7A82;Cloud key    
+B7A8F;Light key    
+B7A9C;Sword key    
+B7AA9;Tree key     
+B7AB6;Flower key   
+B7AC3;Magma key    
+B7AD0;Heart key    
+B7ADD;Ghost key    
+B7AEA;Trial key    
+B7AF7;Dankirk key  
+B7B04;Basement key 
+B7B11;Narcysus key 
+B7B1E;Truth key    
+B7B2B;Mermaid jade 
+B7B38;Engine       
+B7B45;Ancient key  
+B7B52;Pretty flwr. 
+B7B5F;Glass angel  
+B7B6C;VIP card     
+B7B79;Key26        
+B7B86;Key27        
+B7B93;Key28        
+B7BA0;Key29        
+B7BAD;Key30        
+B7BBA;Crown        
+B7BC7;Ruby apple   
+B7BD4;PURIFIA      
+B7BE1;Tag ring     
+B7BEE;Tag ring     
+B7BFB;RAN-RAN step 
+B7CBD;Tag candy    
+B7CCE;Last
